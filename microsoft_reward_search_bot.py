@@ -3,7 +3,6 @@
 import pyautogui
 import time
 import customtkinter
-import tkinter
 
 #failsafe to give you security, if you need to break the code
 pyautogui.FAILSAFE = True
